@@ -1,6 +1,11 @@
-#Olá
-## Sou um desenvolvedor iniciante na área
-a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+# hello word
+## Sou um desenvolvedor iniciante na área de programação
+### tenho conhecimento em:
+<a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
