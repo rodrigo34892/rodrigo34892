@@ -1,4 +1,4 @@
-# hello word
+hello word
 ## Sou um desenvolvedor iniciante na área de programação
 ### tenho conhecimento em:
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
